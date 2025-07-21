@@ -14,7 +14,7 @@ load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
 
 # URL repo GitHub kamu
-REPO_URL = "https://github.com/novdev72/CHAT-BOT"
+REPO_URL = "https://github.com/novdev72/chatbot"
 
 # Clone repo ke folder lokal 'data'
 if not os.path.exists("data"):
