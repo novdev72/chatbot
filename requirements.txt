@@ -1,0 +1,6 @@
+python-dotenv
+gitpython
+langchain
+openai
+gradio
+faiss-cpu
